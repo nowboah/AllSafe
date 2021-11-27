@@ -22,22 +22,22 @@ Foi um trabalho simples,  porem  trabalhoso.
 
 =======================================================================================
 
-**Informações de acesso:**
-Credenciais de administrador (visualizam *todos* os chamados abertos)
-admin@teste.com
-alan@teste.com
+# Informações de acesso:
+Credenciais de administrador (visualizam *todos* os chamados abertos)<br/>
+admin@teste.com<br/>
+alan@teste.com<br/>
 
-Credenciais de usuário comum (visualizam *somente* chamados dos quais ele mesmo abriu)
-usuario@teste.com
-maicon@teste.com
-professor@teste.com
+Credenciais de usuário comum (visualizam *somente* chamados dos quais ele mesmo abriu)<br/>
+usuario@teste.com<br/>
+maicon@teste.com<br/>
+professor@teste.com<br/>
 
-senha de todos os usários é: 1234
+senha de todos os usários é: 1234<br/>
 
 =======================================================================================
 
 
-Melhorias no design;
-Registro de data e hora na abertura do chamado;
-Campo email reestruturado;
+#Melhorias no design;
+#Registro de data e hora na abertura do chamado;
+#Campo email reestruturado;
 
