@@ -20,7 +20,7 @@ O endereço da API é https://projetoallsafe.000webhostapp.com/ através dele po
 
 Foi um trabalho simples,  porem  trabalhoso.
 
-=======================================================================================
+============================================================S
 
 # Informações de acesso:
 Credenciais de administrador (visualizam *todos* os chamados abertos)<br/>
@@ -34,7 +34,7 @@ professor@teste.com<br/>
 
 senha de todos os usários é: 1234<br/>
 
-=======================================================================================
+============================================================
 
 
 #Melhorias no design;
