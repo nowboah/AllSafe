@@ -20,14 +20,24 @@ O endereço da API é https://projetoallsafe.000webhostapp.com/ através dele po
 
 Foi um trabalho simples,  porem  trabalhoso.
 
-============================================================S
+============================================================
+ # Implementações e Melhorias
 
+#Implementadado dois tipos de usuários (Administrador e Usuário);
+#Credenciais de administrador, visualizam *todos* os chamados abertos;
+#Credenciais de usuário comum, visualizam *somente* chamados dos quais ele mesmo abriu;
+#Implementado registro automático de data e hora na abertura do chamado;
+#Campo email corrigido (reestruturado), agora somente e-mails são aceitos;
+#Melhoias diversas no design (logo, tamanho e botões);
+
+============================================================
 # Informações de acesso:
-Credenciais de administrador (visualizam *todos* os chamados abertos)<br/>
+
+Credenciais de administrador<br/>
 admin@teste.com<br/>
 alan@teste.com<br/>
 
-Credenciais de usuário comum (visualizam *somente* chamados dos quais ele mesmo abriu)<br/>
+Credenciais de usuário comum<br/>
 usuario@teste.com<br/>
 maicon@teste.com<br/>
 professor@teste.com<br/>
@@ -35,9 +45,3 @@ professor@teste.com<br/>
 senha de todos os usários é: 1234<br/>
 
 ============================================================
-
-
-#Melhorias no design;
-#Registro de data e hora na abertura do chamado;
-#Campo email reestruturado;
-
