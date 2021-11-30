@@ -23,12 +23,12 @@ Foi um trabalho simples,  porem  trabalhoso.
 ============================================================
  # Implementações e Melhorias
 
-#Implementadado dois tipos de usuários (Administrador e Usuário);
-#Credenciais de administrador, visualizam *todos* os chamados abertos;
-#Credenciais de usuário comum, visualizam *somente* chamados dos quais ele mesmo abriu;
-#Implementado registro automático de data e hora na abertura do chamado;
-#Campo email corrigido (reestruturado), agora somente e-mails são aceitos;
-#Melhoias diversas no design (logo, tamanho e botões);
+#Implementadado dois tipos de usuários (Administrador e Usuário);<br/>
+#Credenciais de administrador, visualizam *todos* os chamados abertos;<br/>
+#Credenciais de usuário comum, visualizam *somente* chamados dos quais ele mesmo abriu;<br/>
+#Implementado registro automático de data e hora na abertura do chamado;<br/>
+#Campo email corrigido (reestruturado), agora somente e-mails são aceitos;<br/>
+#Melhoias diversas no design (logo, tamanho e botões);<br/>
 
 ============================================================
 # Informações de acesso:
